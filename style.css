@@ -1,5 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&family=Forum&display=swap");
-
+body{
+  background-color: #141414;
+}
 :root{
   --primary-color: #12c2b9;
   --secondary: #dbfffe;
